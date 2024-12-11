@@ -1,0 +1,12 @@
+{
+    "name": "my-cli-tool",
+    "version": "1.0.0",
+    "description": "A CLI tool to initialize Vue projects",
+    "bin": {
+        "init-vue": "./bin/init-vue.js"
+    },
+    "dependencies": {
+        "cli-progress": "^3.12.0",
+        "readline-sync": "^1.4.10"
+    }
+}
